@@ -1,0 +1,19 @@
+{
+  "name": "dataipsum",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node specs/test.js",
+    "lint": "snazzy"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "random-seed": "^0.3.0"
+  },
+  "devDependencies": {
+    "snazzy": "^6.0.0",
+    "standard": "^9.0.1"
+  }
+}
